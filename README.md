@@ -12,7 +12,11 @@ This repository includes the content for the tutorial sessions of the course "In
 # Course Outline
 
 - ## Operators, Variables, and Data Types:
+
   In week 1, we will learn about the basic building blocks of programming. We will learn about console I/O, variables, data types, and operators. We will also learn how to use google colaboratory to write and run python programs. We will solve a number of problems using these concepts to get a better understanding of these concepts.
+
+- ## Boolean and Arithmetic operators:
+  In week 2, we will learn about boolean and arithmetic operators. We will learn how to use boolean operators to make decisions in our programs. We will also learn how to use arithmetic operators to perform mathematical operations in our programs. All of these concepts will be used to solve a number of problems which will help students to get a better understanding of these concepts.
 
 # Prerequisites
 
