@@ -49,6 +49,6 @@ We will be using [Google Colaboratory](https://colab.research.google.com/) to wr
 - [Python tutorial](https://python-course.eu/python-tutorial/) by Bernd Klein
 - [Python tutorial](https://www.tutorialspoint.com/python3/python3_tutorial.pdf) by tutorialspoint
 
-# Teached by
+# Taugth by
 
 - [Mir Sazzat Hossain](https://github.com/mirsazzathossain), Research Assistant, [Center for Computational and Data Sciences](https://ccds.ai), [IUB](http://iub.edu.bd)
