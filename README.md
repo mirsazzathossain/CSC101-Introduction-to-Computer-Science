@@ -16,7 +16,11 @@ This repository includes the content for the tutorial sessions of the course "In
   In week 1, we will learn about the basic building blocks of programming. We will learn about console I/O, variables, data types, and operators. We will also learn how to use google colaboratory to write and run python programs. We will solve a number of problems using these concepts to get a better understanding of these concepts.
 
 - ## Boolean and Arithmetic operators:
+
   In week 2, we will learn about boolean and arithmetic operators. We will learn how to use boolean operators to make decisions in our programs. We will also learn how to use arithmetic operators to perform mathematical operations in our programs. All of these concepts will be used to solve a number of problems which will help students to get a better understanding of these concepts.
+
+- ## Conditional Statements:
+  In week 3, we will learn about conditional statements. We will learn how to use basic conditional statements like if, elif, and else to make decisions in our programs. Students will be able to decide which conditional statement to use in a given situation. They will also be able to trace out the alternative conditional paths in a given program. As usual, we will solve a number of problems to get a better understanding of these concepts.
 
 # Prerequisites
 
