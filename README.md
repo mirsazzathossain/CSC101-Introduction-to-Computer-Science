@@ -30,6 +30,9 @@ This repository includes the content for the tutorial sessions of the course "In
 - ## Loops:
   In week 5, we will learn about loops. We will learn about the different types of loops and how to use them to repeat a block of code in our programs. After this session students will be able to decide when and where to use loops in their programs. We will solve a number of problems to get a better understanding of these concepts.
 
+- ## More on Loops:
+  In week 6, we will go a little deeper into loops. We will learn about how to use nested loops in our programs. We will also learn about the break and continue statements and how to use them in our programs. We will solve a number of problems to get a better understanding of these concepts.
+
 # Prerequisites
 
 As this is an introductory course, no prior programming experience is required. However, students should have a basic understanding of mathematics. Students should be familiar with the following concepts:
