@@ -20,7 +20,18 @@ This repository includes the content for the tutorial sessions of the course "In
   In week 2, we will learn about boolean and arithmetic operators. We will learn how to use boolean operators to make decisions in our programs. We will also learn how to use arithmetic operators to perform mathematical operations in our programs. All of these concepts will be used to solve a number of problems which will help students to get a better understanding of these concepts.
 
 - ## Conditional Statements:
+
   In week 3, we will learn about conditional statements. We will learn how to use basic conditional statements like if, elif, and else to make decisions in our programs. Students will be able to decide which conditional statement to use in a given situation. They will also be able to trace out the alternative conditional paths in a given program. As usual, we will solve a number of problems to get a better understanding of these concepts.
+
+- ## More on Conditional Statements:
+
+  In week 4, we will learn about more advanced conditional statements. We will learn about nested conditional statements and how to use them to make decisions in our programs. We will also learn about the ternary operator and how to use it to make decisions in our programs. We will solve a number of problems to get a better understanding of these concepts.
+
+- ## Loops:
+  In week 5, we will learn about loops. We will learn about the different types of loops and how to use them to repeat a block of code in our programs. After this session students will be able to decide when and where to use loops in their programs. We will solve a number of problems to get a better understanding of these concepts.
+
+- ## More on Loops:
+  In week 6, we will go a little deeper into loops. We will learn about how to use nested loops in our programs. We will also learn about the break and continue statements and how to use them in our programs. We will solve a number of problems to get a better understanding of these concepts.
 
 # Prerequisites
 
