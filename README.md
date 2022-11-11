@@ -28,10 +28,15 @@ This repository includes the content for the tutorial sessions of the course "In
   In week 4, we will learn about more advanced conditional statements. We will learn about nested conditional statements and how to use them to make decisions in our programs. We will also learn about the ternary operator and how to use it to make decisions in our programs. We will solve a number of problems to get a better understanding of these concepts.
 
 - ## Loops:
+
   In week 5, we will learn about loops. We will learn about the different types of loops and how to use them to repeat a block of code in our programs. After this session students will be able to decide when and where to use loops in their programs. We will solve a number of problems to get a better understanding of these concepts.
 
 - ## More on Loops:
+
   In week 6, we will go a little deeper into loops. We will learn about how to use nested loops in our programs. We will also learn about the break and continue statements and how to use them in our programs. We will solve a number of problems to get a better understanding of these concepts.
+
+- ## Lists and Tuples:
+  In week 7, we will learn about lists and tuples. We will learn about the different operations that can be performed on lists and tuples. We will also learn about the different methods that can be used on lists and tuples. We will solve a number of problems to get a better understanding of these concepts.
 
 # Prerequisites
 
