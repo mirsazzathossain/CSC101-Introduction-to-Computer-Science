@@ -40,7 +40,11 @@ This repository includes the content for the tutorial sessions of the course "In
   In week 7, we will learn about lists and tuples. We will learn about the different operations that can be performed on lists and tuples. We will also learn about the different methods that can be used on lists and tuples. We will solve a number of problems to get a better understanding of these concepts.
 
 - ## Functions:
+
   In week 8, we will learn about functions. We will learn about the advantages of using functions in our programs. We will also learn about the arguments and return values of functions. We will solve a number of problems to get a better understanding of these concepts.
+
+- ## More on Functions:
+  In week 9, we will learn about more advanced concepts of functions. We will combine the concepts of lists, tuples, and functions to solve a number of problems. This will help students to get a better understanding of these concepts and how to use them in their programs.
 
 # Prerequisites
 
