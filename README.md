@@ -36,7 +36,11 @@ This repository includes the content for the tutorial sessions of the course "In
   In week 6, we will go a little deeper into loops. We will learn about how to use nested loops in our programs. We will also learn about the break and continue statements and how to use them in our programs. We will solve a number of problems to get a better understanding of these concepts.
 
 - ## Lists and Tuples:
+
   In week 7, we will learn about lists and tuples. We will learn about the different operations that can be performed on lists and tuples. We will also learn about the different methods that can be used on lists and tuples. We will solve a number of problems to get a better understanding of these concepts.
+
+- ## Functions:
+  In week 8, we will learn about functions. We will learn about the advantages of using functions in our programs. We will also learn about the arguments and return values of functions. We will solve a number of problems to get a better understanding of these concepts.
 
 # Prerequisites
 
