@@ -1,6 +1,6 @@
-# Introdiction to Computer Science
+# Introduction to Computer Science
 
-The "Introduction to Computer Science" course at [Independent University, Bangladesh](http://iub.edu.bd) has been designed to provide students with a comprehensive understanding of the basics of programming using Python. The course covers a wide range of topics, including fundamental programming concepts like variables, loops, conditional statements, and functions, as well as more advanced topics like data structures and file handling. The tutorial sessions are hands-on, allowing students to practice what they've learned and solve problems independently. The course has been designed to equip students with the skills necessary to write programs that solve real-world problems and to provide them with a solid foundation in the use of Python for problem-solving.
+The **"Introduction to Computer Science"** course at [Independent University, Bangladesh](http://iub.edu.bd) has been designed to provide students with a comprehensive understanding of the basics of programming using Python. The course covers a wide range of topics, including fundamental programming concepts like variables, loops, conditional statements, and functions, as well as more advanced topics like data structures and file handling. The tutorial sessions are hands-on, allowing students to practice what they've learned and solve problems independently. The course has been designed to equip students with the skills necessary to write programs that solve real-world problems and to provide them with a solid foundation in the use of Python for problem-solving.
 
 # Course Objectives
 
@@ -14,7 +14,7 @@ The "Introduction to Computer Science" course at [Independent University, Bangla
 
 # Course Outline
 
-The course "Introduction to Computer Science" at Independent University, Bangladesh, provides students with a comprehensive introduction to programming using Python. The course consists of 11 weeks of tutorial sessions, each focusing on different aspects of programming and problem-solving. The course objectives are to introduce students to the basics of problem solving using Python, understand the scope of programming in solving real-world problems, and to help students grow in confidence to solve real-world problems using programming concepts.
+The course **"Introduction to Computer Science"** at Independent University, Bangladesh, provides students with a comprehensive introduction to programming using Python. The course consists of 11 weeks of tutorial sessions, each focusing on different aspects of programming and problem-solving. The course objectives are to introduce students to the basics of problem-solving using Python, understand the scope of programming in solving real-world problems, and to help students grow in confidence to solve real-world problems using programming concepts.
 
 - ## Week 1: Operators, Variables, and Data Types
 
@@ -67,7 +67,7 @@ The "Introduction to Computer Science" course is suitable for students with no p
 - Algebraic principles, including the ability to solve equations and manipulate variables
 - Geometry, including an understanding of points, lines, and shapes
 - Trigonometry, including fundamental trigonometric functions and their applications
-- Boolean Algebra, including understanding of Boolean operators (AND, OR, NOT, etc.), truth tables, and logic gates.
+- Boolean Algebra, including a good understanding of Boolean operators (AND, OR, NOT, etc.), truth tables, and logic gates.
 
 Having a solid foundation in these mathematical concepts, especially in Boolean Algebra, will greatly enhance students' ability to understand and apply the programming concepts covered in the course.
 
@@ -98,6 +98,6 @@ Here are some recommended books for further learning:
 - [Python tutorial](https://python-course.eu/python-tutorial/) by Bernd Klein
 - [Python tutorial](https://www.tutorialspoint.com/python3/python3_tutorial.pdf) by tutorialspoint
 
-# Taugth by
+# Taught By
 
 - [Mir Sazzat Hossain](https://mirsazzathossain.me), Research Assistant at the [Center for Computational and Data Sciences (CCDS)](https://ccds.ai) at [Independent University, Bangladesh (IUB)](http://iub.edu.bd)
