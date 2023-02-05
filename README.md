@@ -1,84 +1,97 @@
-# Introdiction to Programming
+# Introdiction to Computer Science
 
-This repository includes the content for the tutorial sessions of the course "Introduction to Programming" at [Independent University, Bangladesh](http://iub.edu.bd). This course will teach students the basics of programming using Python. We will solve a number of problems using Python and learn how to use Python to solve real world problems. Topics range from basic principles of programming like variables, loops, conditional statements, functions, to more advanced topics like data structures and file handeling. It will be a hands on course where students will be encouraged to solve problems on their own. At the end of the course, students will be able to write programs to solve real world problems.
+The "Introduction to Computer Science" course at [Independent University, Bangladesh](http://iub.edu.bd) has been designed to provide students with a comprehensive understanding of the basics of programming using Python. The course covers a wide range of topics, including fundamental programming concepts like variables, loops, conditional statements, and functions, as well as more advanced topics like data structures and file handling. The tutorial sessions are hands-on, allowing students to practice what they've learned and solve problems independently. The course has been designed to equip students with the skills necessary to write programs that solve real-world problems and to provide them with a solid foundation in the use of Python for problem-solving.
 
 # Course Objectives
 
-- Introduce the students to the basics of problem solving using python.
-- Students will be able to understand the scope of programming in solving real world problems.
-- Student will learn different building blocks of programming with hands on programming exercises.
-- Student will grow in confidence to solve real world problems using programming concepts they have learned.
+- Provide a comprehensive introduction to the basics of problem-solving using Python.
+- Familiarize students with the broad range of applications of programming in solving real-world problems.
+- Develop students' understanding of the fundamental building blocks of programming through hands-on programming exercises.
+- Help students build confidence in applying programming concepts to solve real-world problems.
+- Enhance students' critical thinking and problem-solving skills through practical exercises and projects.
+- Foster an understanding of good programming practices, such as code readability, maintainability, and efficiency.
+- Provide opportunities for students to practice and apply the skills and knowledge acquired through the course.
 
 # Course Outline
 
-- ## Operators, Variables, and Data Types:
+The course "Introduction to Computer Science" at Independent University, Bangladesh, provides students with a comprehensive introduction to programming using Python. The course consists of 11 weeks of tutorial sessions, each focusing on different aspects of programming and problem-solving. The course objectives are to introduce students to the basics of problem solving using Python, understand the scope of programming in solving real-world problems, and to help students grow in confidence to solve real-world problems using programming concepts.
 
-  In week 1, we will learn about the basic building blocks of programming. We will learn about console I/O, variables, data types, and operators. We will also learn how to use google colaboratory to write and run python programs. We will solve a number of problems using these concepts to get a better understanding of these concepts.
+- ## Week 1: Operators, Variables, and Data Types
 
-- ## Boolean and Arithmetic operators:
+  This session focuses on the basic building blocks of programming. Students will learn about console I/O, variables, data types, and operators. They will also learn how to use Google Colaboratory to write and run Python programs and solve problems using these concepts.
 
-  In week 2, we will learn about boolean and arithmetic operators. We will learn how to use boolean operators to make decisions in our programs. We will also learn how to use arithmetic operators to perform mathematical operations in our programs. All of these concepts will be used to solve a number of problems which will help students to get a better understanding of these concepts.
+- ## Week 2: Boolean and Arithmetic Operators
 
-- ## Conditional Statements:
+  This session covers boolean and arithmetic operators. Students will learn how to use boolean operators to make decisions in their programs, as well as how to perform mathematical operations using arithmetic operators. They will solve problems to better understand these concepts.
 
-  In week 3, we will learn about conditional statements. We will learn how to use basic conditional statements like if, elif, and else to make decisions in our programs. Students will be able to decide which conditional statement to use in a given situation. They will also be able to trace out the alternative conditional paths in a given program. As usual, we will solve a number of problems to get a better understanding of these concepts.
+- ## Week 3: Conditional Statements
 
-- ## More on Conditional Statements:
+  This week, students will learn about conditional statements, including if, elif, and else. They will learn how to make decisions in their programs using conditional statements and understand how to trace alternative conditional paths in a given program. As always, they will solve a number of problems to solidify their understanding.
 
-  In week 4, we will learn about more advanced conditional statements. We will learn about nested conditional statements and how to use them to make decisions in our programs. We will also learn about the ternary operator and how to use it to make decisions in our programs. We will solve a number of problems to get a better understanding of these concepts.
+- ## Week 4: More on Conditional Statements
 
-- ## Loops:
+  In this session, students will delve into more advanced conditional statements, including nested conditional statements and the ternary operator. They will learn how to use these statements to make decisions in their programs and solve problems to better understand the concepts.
 
-  In week 5, we will learn about loops. We will learn about the different types of loops and how to use them to repeat a block of code in our programs. After this session students will be able to decide when and where to use loops in their programs. We will solve a number of problems to get a better understanding of these concepts.
+- ## Week 5: Loops
 
-- ## More on Loops:
+  This week, students will learn about loops, including different types of loops and how to use them to repeat a block of code in their programs. They will also learn when and where to use loops in their programs and solve problems to gain a deeper understanding.
 
-  In week 6, we will go a little deeper into loops. We will learn about how to use nested loops in our programs. We will also learn about the break and continue statements and how to use them in our programs. We will solve a number of problems to get a better understanding of these concepts.
+- ## Week 6: More on Loops
 
-- ## Lists and Tuples:
+  In this session, students will dive deeper into loops, learning about nested loops and the break and continue statements. They will solve problems to better understand these concepts and how to use them in their programs.
 
-  In week 7, we will learn about lists and tuples. We will learn about the different operations that can be performed on lists and tuples. We will also learn about the different methods that can be used on lists and tuples. We will solve a number of problems to get a better understanding of these concepts.
+- ## Week 7: Lists and Tuples
 
-- ## Functions:
+  Students will learn about lists and tuples, including different operations that can be performed on them and the methods that can be used. They will solve problems to better understand these concepts.
 
-  In week 8, we will learn about functions. We will learn about the advantages of using functions in our programs. We will also learn about the arguments and return values of functions. We will solve a number of problems to get a better understanding of these concepts.
+- ## Week 8: Functions
 
-- ## More on Functions:
+  This week, students will learn about functions, including the advantages of using functions in their programs, arguments and return values, and how to solve problems using functions.
 
-  In week 9, we will learn about more advanced concepts of functions. We will combine the concepts of lists, tuples, and functions to solve a number of problems. This will help students to get a better understanding of these concepts and how to use them in their programs.
+- ## Week 9: More on Functions
 
-- ## Dictionaries:
+  In this session, students will learn about more advanced concepts of functions, including combining lists, tuples, and functions to solve problems. They will gain a better understanding of how to use these concepts in their programs.
 
-  In week 10, we will learn about dictionaries and sets. We will learn about the different operations that can be performed on dictionaries and sets. We will also learn about the different methods that can be used on dictionaries and sets. We will solve a number of problems to get a better understanding of these concepts.
+- ## Week 10: Dictionaries and Sets
 
-- ## Files:
-  In week 11, we will learn about files. We will learn how to read and write files in our programs. We will also learn about the different modes of opening files. We will solve a number of problems to get a better understanding of these concepts.
+  In this session, students will learn about dictionaries and sets, including different operations that can be performed and the methods that can be used. They will solve problems to better understand these concepts.
+
+- ## Week 11: Files
+  The final session will focus on files, including how to read and write files in programs, and the different modes of opening files. Students will solve problems to better understand these concepts and be ready to apply what they have learned to real-world problems.
 
 # Prerequisites
 
-As this is an introductory course, no prior programming experience is required. However, students should have a basic understanding of mathematics. Students should be familiar with the following concepts:
+The "Introduction to Computer Science" course is suitable for students with no prior programming experience, but a basic understanding of mathematics is essential for success in the course. The following mathematical concepts are necessary to fully comprehend the programming material covered:
 
-- Basic arithmetic operations
-- Basic algebra
-- Basic geometry
-- Basic trigonometry
+- Basic arithmetic operations, such as addition, subtraction, multiplication, and division
+- Algebraic principles, including the ability to solve equations and manipulate variables
+- Geometry, including an understanding of points, lines, and shapes
+- Trigonometry, including fundamental trigonometric functions and their applications
+- Boolean Algebra, including understanding of Boolean operators (AND, OR, NOT, etc.), truth tables, and logic gates.
+
+Having a solid foundation in these mathematical concepts, especially in Boolean Algebra, will greatly enhance students' ability to understand and apply the programming concepts covered in the course.
 
 # Evaluation
 
-Students will be evaluated based on their performance in the following:
+Evaluation for the course will be based on the following criteria:
 
-- Class participation (50%)
-- Assignments (50%)
+- Class Attendance (50%): Attendance is mandatory for all classes and students are expected to be present for every session.
 
-The grade of this session will contribute 10% to the final grade of the course.
+- Active Participation in Class (20%): Students are expected to actively participate in class discussions, ask questions, and engage in group activities.
 
-> **Note:** Attendance is mandatory for all classes. Students are expected to attend all classes. If a student misses a class, he/she is expected to inform the instructor in advance. If a student misses a class without informing the instructor, he/she will be marked absent for that class.
+- Quizzes and Assignments (30%): Students will be tested on their understanding of the course material through various quizzes and assignments.
 
-# Environment Setup
+It is worth mentioning that the grade from this session will contribute 10% to the overall final grade of the course.
 
-We will be using [Google Colaboratory](https://colab.research.google.com/) to write and run python programs. Google Colaboratory is a free Jupyter notebook environment that requires no setup and runs entirely in the cloud. It is a great tool for learning and teaching programming. It is also a great tool for data science and machine learning. You can find more information about Google Colaboratory [here](https://colab.research.google.com/notebooks/welcome.ipynb).
+> **Note:** Attendance is mandatory for all classes and students are expected to attend every session. If a student needs to miss a class, they must inform the instructor beforehand. If a student misses a class without prior notification, they will be marked absent for that session. Plagiarism is strictly prohibited. If found copying from others, no marks will be given for that specific assignment, class, or quiz.
+
+# Programming Environment
+
+In this course, we will utilize [Google Colaboratory](https://colab.research.google.com/) for writing and executing Python programs. Google Colaboratory is a cloud-based Jupyter notebook platform that is free and does not require any setup. It is an excellent resource for learning and teaching programming, as well as for data science and machine learning. You can find more information about Google Colaboratory [here](https://colab.research.google.com/notebooks/welcome.ipynb).
 
 # Books
+
+Here are some recommended books for further learning:
 
 - [Automate the Boring Stuff with Python, 2nd Edition](https://automatetheboringstuff.com/) by Al Sweigart
 - [Head First Python](https://www.oreilly.com/library/view/head-first-python/9781491919521/) by Paul Barry
@@ -87,4 +100,4 @@ We will be using [Google Colaboratory](https://colab.research.google.com/) to wr
 
 # Taugth by
 
-- [Mir Sazzat Hossain](https://github.com/mirsazzathossain), Research Assistant, [Center for Computational and Data Sciences](https://ccds.ai), [IUB](http://iub.edu.bd)
+- [Mir Sazzat Hossain](https://mirsazzathossain.me), Research Assistant at the [Center for Computational and Data Sciences (CCDS)](https://ccds.ai) at [Independent University, Bangladesh (IUB)](http://iub.edu.bd)
